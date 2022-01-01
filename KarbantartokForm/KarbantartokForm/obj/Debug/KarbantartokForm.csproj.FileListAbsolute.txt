@@ -1,0 +1,9 @@
+C:\Users\loka9\Desktop\KarbantartokForm\KarbantartokForm\bin\Debug\KarbantartokForm.exe.config
+C:\Users\loka9\Desktop\KarbantartokForm\KarbantartokForm\bin\Debug\KarbantartokForm.exe
+C:\Users\loka9\Desktop\KarbantartokForm\KarbantartokForm\bin\Debug\KarbantartokForm.pdb
+C:\Users\loka9\Desktop\KarbantartokForm\KarbantartokForm\obj\Debug\KarbantartokForm.csprojAssemblyReference.cache
+C:\Users\loka9\Desktop\KarbantartokForm\KarbantartokForm\obj\Debug\KarbantartokForm.Form1.resources
+C:\Users\loka9\Desktop\KarbantartokForm\KarbantartokForm\obj\Debug\KarbantartokForm.Properties.Resources.resources
+C:\Users\loka9\Desktop\KarbantartokForm\KarbantartokForm\obj\Debug\KarbantartokForm.csproj.GenerateResource.cache
+C:\Users\loka9\Desktop\KarbantartokForm\KarbantartokForm\obj\Debug\KarbantartokForm.exe
+C:\Users\loka9\Desktop\KarbantartokForm\KarbantartokForm\obj\Debug\KarbantartokForm.pdb
